@@ -4,3 +4,18 @@ Source:
 Unreal Engine 5 C++: Make Your Own Action Combat Game
 https://www.gamedev.tv/dashboard/courses/117/6274
 ------------------------------------------------------
+
+============================================
+Project Custom Thumbnail:
+
+* Project Settings -> Project -> Description -> Project Thumbnail
+* Unreal recommended image Height should be 192
+  * Note that it says it should be 192x192
+* A file is automatically created in the top level with the project name:
+  * C:\Dev\GameDevTV\ActionCombat\ActionCombat.png
+
+Convert JPG to PNG:
+https://cloudconvert.com/jpg-to-png
+
+============================================
+
